@@ -9,7 +9,7 @@
 - Inline Styles
 	- `<p style="css_rule_1; css_rule_2;">Some text </p>`
 
-![[Pasted image 20250112191116.png]]
+![pic](<Pasted image 20250112191116.png>)
 
 ## CSS Terminology
 
@@ -42,7 +42,7 @@
 - Specifies how to calculate the size of an element and space around it
 	- Content, Padding, Border, Outline and Shadow: take no space, Margin
 	- Default behavior: when you specify height and width, you only specify the content box size. If you specify additional properties, those size values will be **added** on to the content box size
-![[Pasted image 20250112192920.png]]
+![img](<Pasted image 20250112192920.png>)
 
 ## CSS Selectors
 - Define the target of the CSS rules
@@ -65,7 +65,7 @@
 - Child - more specific than descendant
 	- `header > p { color: red; }` - applied to `<p>` DIRECTLY INSIDE of `<header>`
 #### Attribute Selectors
-![[Pasted image 20250112195639.png]]
+![img](<Pasted image 20250112195639.png>)
 #### Pseudo-class Selectors
 - Applies to elements based on their state
 	- `selector:pseudo-class { property: value; }`
