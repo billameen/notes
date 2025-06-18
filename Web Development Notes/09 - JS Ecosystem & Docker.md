@@ -69,12 +69,12 @@
 	- eg. MySQL, Apache, NGINX, Minecraft
 
 
-![[Pasted image 20250204231535.png]]
+![img](<images/Pasted image 20250204231535.png>)
 
-![[Pasted image 20250204231745.png]]
+![img](<images/Pasted image 20250204231745.png>)
 
 ## Docker Networking
-![[Pasted image 20250204231946.png]]
+![img](<images/Pasted image 20250204231946.png>)
 
 - Bridge
 	- basically a network address translation 
@@ -85,7 +85,7 @@
 - Macvlan and ipvlan
 	- connects network to your own router
 
-![[Pasted image 20250204232250.png]]
+![img](<images/Pasted image 20250204232250.png>)
 
 
 # Building Images & Running Containers
@@ -109,24 +109,24 @@
 
 ## Custom Images: Dockerfile
 - text file with instructions on how to build an image
-- ![[Pasted image 20250204232833.png]]
+- ![img](<images/Pasted image 20250204232833.png>)
 
-![[Pasted image 20250204233059.png]]
+![img](<images/Pasted image 20250204233059.png>)
 - You muyst have at least a CMD or an ENTRYPOINT
 - ENTRYPOINT runs before CMD
 - Entrypoint provides a base executable, like a script you want to run, CMD provides arguments to the executable
 
-![[Pasted image 20250204233536.png]]
-![[Pasted image 20250204233635.png]]
+![img](<images/Pasted image 20250204233536.png>)
+![img](<images/Pasted image 20250204233635.png>)
 
-![[Pasted image 20250204233837.png]]
+![img](<images/Pasted image 20250204233837.png>)
 
 - A volume is a folder or file that we link from the host into a specific location inside of the container
 - means we can make changes to a file outside of the container and the changes will be reflected inside of the container
 - means we dont have to rebuild the container each time we make changes
 
 
-![[Pasted image 20250204233935.png]]
+![img](<images/Pasted image 20250204233935.png>)
 - We can forward a port from the host into a container. 
 
 # Docker Compose
@@ -135,11 +135,11 @@
 	- compose.yml
 - Run one command to build/start/stop all containers in the stack
 - Each stack gets its own private network by default
-![[Pasted image 20250204234216.png]]
-![[Pasted image 20250316161903.png]]
-![[Pasted image 20250204234405.png]]
+![img](<images/Pasted image 20250204234216.png>)
+![img](<images/Pasted image 20250316161903.png>)
+![img](<images/Pasted image 20250204234405.png>)
 
-![[Pasted image 20250204234610.png]]
+![img](<images/Pasted image 20250204234610.png>)
 
 
 
@@ -156,4 +156,4 @@ Source for a lot of errors:
 
 
 `RUN` executes commands during image build time, while `CMD`/`ENTRYPOINT` executes commands at container runtime
-![[Pasted image 20250316162255.png]]
+![img](<images/Pasted image 20250316162255.png>)

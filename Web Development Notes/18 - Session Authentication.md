@@ -84,4 +84,4 @@
 - The server can clear a session to "log out" the user
 	- The user can also request that a session be cleared
 
-![[Pasted image 20250316145816.png]]
+![img](<images/Pasted image 20250316145816.png>)

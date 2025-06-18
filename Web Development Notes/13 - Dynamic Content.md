@@ -40,11 +40,11 @@
 - The query strring (GET parameters) are available via the `search` property of location
 	- `window.location.search`
 
-![[Pasted image 20250218223628.png]]
+![img](<images/Pasted image 20250218223628.png>)
 
-![[Pasted image 20250218223923.png]]
+![img](<images/Pasted image 20250218223923.png>)
 
-![[Pasted image 20250218224129.png]]
+![img](<images/Pasted image 20250218224129.png>)
 
 
 # Server-side Rendering
@@ -52,11 +52,11 @@
 - Less code and stuff to worry about on the client side
 	- It doesn't even need to know where the data is coming from, or that the pages are dynamic at all.
 	- It just receives HTML and displays it.
-![[Pasted image 20250218224601.png]]
+![img](<images/Pasted image 20250218224601.png>)
 
-![[Pasted image 20250218224751.png]]
+![img](<images/Pasted image 20250218224751.png>)
 
-![[Pasted image 20250218225025.png]]
+![img](<images/Pasted image 20250218225025.png>)
 
 
 

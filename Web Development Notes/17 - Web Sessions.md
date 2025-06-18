@@ -28,7 +28,7 @@
 	- Objects can be stored as JSON strings
 
 ## `Storage` Interface
-![[Pasted image 20250304163703.png]]
+![img](<images/Pasted image 20250304163703.png>)
 
 ## LocalStorage vs SessionStorage
 
@@ -66,7 +66,7 @@
 	- The server can send unique data to each client to identify it
 - HTTP Headers are used to transmit cookies
 
-![[Pasted image 20250304164909.png]]
+![img](<images/Pasted image 20250304164909.png>)
 
 
 ## Cookies for Server-side Sessions
@@ -79,25 +79,25 @@
 - The client only sees an identifier. No other data is available to the client by default
 
 ## Cookies in Express
-![[Pasted image 20250304170001.png]]
+![img](<images/Pasted image 20250304170001.png>)
 
 ## A Little Help From Middleware
-![[Pasted image 20250304170149.png]]
+![img](<images/Pasted image 20250304170149.png>)
 
 
 # Cookie Attributes
 
 ## Cookie Expiration
-![[Pasted image 20250304170801.png]]
+![img](<images/Pasted image 20250304170801.png>)
 
 ## HTTP-only Cookies
-![[Pasted image 20250304170910.png]]
+![img](<images/Pasted image 20250304170910.png>)
 
 ## Secure Cookies
-![[Pasted image 20250304171126.png]]
+![img](<images/Pasted image 20250304171126.png>)
 
 ## Limiting Cookie Scope
-![[Pasted image 20250304230916.png]]
+![img](<images/Pasted image 20250304230916.png>)
 
 ## Cross-site Behavior
-![[Pasted image 20250304231123.png]]
+![img](<images/Pasted image 20250304231123.png>)

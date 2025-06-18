@@ -14,10 +14,10 @@
 	- can resolve when the process completes successfully
 	- can reject when the process fails
 - An asynch process can return a promise object instead of using a callback
-![[Pasted image 20250126215623.png]]
+(![img](<images/Pasted image 20250126215623.png>)
 
 ## Using Promises
-![[Pasted image 20250126215837.png]]
+(![img](<images/Pasted image 20250126215837.png>)
 
 
 # Using JavaScript
@@ -31,7 +31,7 @@
 	- all global functions attach to it
 	- BOM: browser object model (API to interact with browser)
 	- DOM: document object model
-![[Pasted image 20250126220159.png]]
+(![img](<images/Pasted image 20250126220159.png>)
 
 ## JS Console and Dev Tools
 
@@ -48,12 +48,12 @@
 - Some `<script>` attributes can change this behavior in external scripts:
 	- `defer`
 	- `async`
-![[Pasted image 20250126220729.png]]
+(![img](<images/Pasted image 20250126220729.png>)
 
 # The DOM
 - Document object model
 - It is the representation of all html elements from a file as an object
-![[Pasted image 20250126221405.png]]
+(![img](<images/Pasted image 20250126221405.png>)
 - The DOM is a Tree of `Node`s
 	- the root of the DOM is `document`
 	- Not all `Node`s are HTML `Element`s
@@ -61,14 +61,14 @@
 	- `Element.tagName` - tells you the name of the tag of the html element
 
 ## Traversing the DOM
-![[Pasted image 20250126221751.png]]
+(![img](<images/Pasted image 20250126221751.png>)
 
 ## Querying the DOM
-![[Pasted image 20250126222039.png]]
+(![img](<images/Pasted image 20250126222039.png>)
 - `Element.querySelector("#wow")` finds first element that has the id wow
 
 ## Manipulating the DOM
-![[Pasted image 20250126222345.png]]
+(![img](<images/Pasted image 20250126222345.png>)
 
 
 

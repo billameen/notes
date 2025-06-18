@@ -24,7 +24,7 @@
 	- Based on the `Event` interface
 	- But is usually extended with more properties and/or methods
 - `Event.target` refers to the element where the event occurred
-- ![[Pasted image 20250128211056.png]]
+- ![img](<images/Pasted image 20250128211056.png>)
 
 
 ### `DOMContentLoaded` and `load`
@@ -34,7 +34,7 @@
 	- Waits until deferred scripts are downloaded and executed
 - `window.load`
 	- Fires when page and all resources have been loaded
-![[Pasted image 20250128211402.png]]
+![img](<images/Pasted image 20250128211402.png>)
 
 
 
@@ -44,7 +44,7 @@
 	- Pressing the ENTER key on a form causes the form to be submitted
 - We can stop these default behaviors
 	- `Event.preventDefault();`
-- ![[Pasted image 20250128211536.png]]
+- ![img](<images/Pasted image 20250128211536.png>)
 
 
 ### Keyboard Events

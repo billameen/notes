@@ -53,16 +53,16 @@
 	- GET /counties/:county/parks to get all parks from county in variable :county
 - the parts of the routes with : in the front of it is called a route parameter
 	- express will take that value and put it in the `params` variable
-![[Pasted image 20250225225820.png]]
+![img](<images/Pasted image 20250225225820.png>)
 
 # Backend Routing
 
-![[Pasted image 20250225230128.png]]
+![img](<images/Pasted image 20250225230128.png>)
 
-![[Pasted image 20250225230318.png]]
+![img](<images/Pasted image 20250225230318.png>)
 
-![[Pasted image 20250225230419.png]]
+![img](<images/Pasted image 20250225230419.png>)
 
-![[Pasted image 20250225230516.png]]
+![img](<images/Pasted image 20250225230516.png>)
 
-![[Pasted image 20250225230714.png]]t
+![img](<images/Pasted image 20250225230714.png>)t

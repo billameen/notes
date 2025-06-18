@@ -29,46 +29,46 @@
 - PWAs behave like native applications so zooming is typically disabled
 
 ## Relative Sizing
-![[Pasted image 20250302200415.png]]
+![img](<images/Pasted image 20250302200415.png>)
 
 ## em vs rem
-![[Pasted image 20250302200425.png]]
+![img](<images/Pasted image 20250302200425.png>)
 - em looks at the font size of the parent element
 - rem looks at the font size of the root element
 
 # CSS Media Queries
 
-![[Pasted image 20250302200638.png]]
+![img](<images/Pasted image 20250302200638.png>)
 
 ## Media Query Rules
 
-![[Pasted image 20250302200721.png]]
-![[Pasted image 20250302200749.png]]
+![img](<images/Pasted image 20250302200721.png>)
+![img](<images/Pasted image 20250302200749.png>)
 
 
 ## Media Query Examples
 
-![[Pasted image 20250302200923.png]]
+![img](<images/Pasted image 20250302200923.png>)
 
 ## Using CSS Media Queries
 
-![[Pasted image 20250302201122.png]]
+![img](<images/Pasted image 20250302201122.png>)
 
 
 # Responsive Images: Resolution Switching
 
-![[Pasted image 20250302201350.png]]
+![img](<images/Pasted image 20250302201350.png>)
 
-![[Pasted image 20250302201732.png]]
-![[Pasted image 20250302202053.png]]
+![img](<images/Pasted image 20250302201732.png>)
+![img](<images/Pasted image 20250302202053.png>)
 
 
-![[Pasted image 20250302202321.png]]
+![img](<images/Pasted image 20250302202321.png>)
 
 
 
 # Responsive Images: Art Direction
 
-![[Pasted image 20250302203358.png]]
+![img](<images/Pasted image 20250302203358.png>)
 
-![[Pasted image 20250302203501.png]]
+![img](<images/Pasted image 20250302203501.png>)

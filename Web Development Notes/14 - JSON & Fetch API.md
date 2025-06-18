@@ -5,7 +5,7 @@ howlList.prepend(howlElement);# JavaScript Object Notation (JSON)
 - The format is language-independent - it is a string
 	- Most programming languages have parsers and encoders available
 	- Very easy to generate and parse
-![[Pasted image 20250223221642.png]]
+![img](<images/Pasted image 20250223221642.png>)
 
 
 - We can convert JSON string to a JS object with:
@@ -15,16 +15,16 @@ howlList.prepend(howlElement);# JavaScript Object Notation (JSON)
 	- `JSON.stringify()`
 	- `let jsonString = JSON.stringify(jsObject);`
 
-![[Pasted image 20250223222050.png]]
+![img](<images/Pasted image 20250223222050.png>)
 
 # Fetch API
 
-![[Pasted image 20250223222149.png]]
+![img](<images/Pasted image 20250223222149.png>)
 
-![[Pasted image 20250223222555.png]]
+![img](<images/Pasted image 20250223222555.png>)
 
-![[Pasted image 20250223222815.png]]
-![[Pasted image 20250223223006.png]]
-![[Pasted image 20250223223138.png]]
-![[Pasted image 20250223223339.png]]
-![[Pasted image 20250223223514.png]]
+![img](<images/Pasted image 20250223222815.png>)
+![img](<images/Pasted image 20250223223006.png>)
+![img](<images/Pasted image 20250223223138.png>)
+![img](<images/Pasted image 20250223223339.png>)
+![img](<images/Pasted image 20250223223514.png>)

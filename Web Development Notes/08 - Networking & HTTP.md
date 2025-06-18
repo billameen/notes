@@ -63,7 +63,7 @@
 	- Zero or more headers
 	- Optionally, a message body
 		- depends on the type of request
-![[Pasted image 20250202231823.png]]
+![img](<images/Pasted image 20250202231823.png>)
 
 
 - HTTP Response
@@ -73,7 +73,7 @@
 		- status message
 	- A series of headers
 	- Usually, a message body
-![[Pasted image 20250202231928.png]]
+![img](<images/Pasted image 20250202231928.png>)
 
 
 - HTTP Response Status Codes
@@ -146,7 +146,7 @@ Other HTTP Methods
 			- Images: image/png, image/jpeg, image/gif
 			- Videos: video/mp4
 
-![[Pasted image 20250202233212.png]]
+![img](<images/Pasted image 20250202233212.png>)
 
 
 
