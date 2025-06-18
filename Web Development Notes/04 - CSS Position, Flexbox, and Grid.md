@@ -13,7 +13,7 @@
 - `sticky`:
 	- Basically a fixed element, but if you scroll, that element will get stuck at the top of the window, kinda like the navbar of fancy websites
 	- You need to specify a direction for it to work properly, like `top: 0;` or `bottom: 0;`
- ![[Pasted image 20250114215612.png]]
+![img](<images/Pasted image 20250114215612.png>)
 
 - Floats
 	- Allows content to wrap around an element
@@ -27,9 +27,9 @@ Two kinds: inner and outer
 - Outer display type: how element boxes relate to other boxes around them
 - Inner display type: how elements nested inside will be rendered
 - Set with `display` CSS property
-![[Pasted image 20250114220410.png]]
-![[Pasted image 20250114220457.png]]
-![[Pasted image 20250114220604.png]]
+![img](<images/Pasted image 20250114220410.png>)
+![img](<images/Pasted image 20250114220457.png>)
+![img](<images/Pasted image 20250114220604.png>)
 
 ## CSS Flexbox
 
@@ -37,7 +37,7 @@ Two kinds: inner and outer
 	- Outer display type
 	- Designates an element as a flex container
 	- Makes all its children flex items (inner display type)
-![[Pasted image 20250114220911.png]]
+![img](<images/Pasted image 20250114220911.png>)
 
 ### Flex Direction
 - Specifies direction/orientation of the main axis. This means you can change the main start and main end however you want
@@ -47,7 +47,7 @@ Two kinds: inner and outer
 	- `column`: flex items rendered north to south
 	- `column-reverse`: flex items rendered south to north
 
-![[Pasted image 20250114221348.png]]
+![img](<images/Pasted image 20250114221348.png>)
 - `flex-wrap`:
 	- `wrap;`wraps flex items onto multiple lines if there isn't enough space
 	- `nowrap;`default value
@@ -58,20 +58,20 @@ Two kinds: inner and outer
 - use `display: grid;` for block type outer display 
 - use `display: inline-grid;`for inline type outer display
 - Designates an element as a grid container, and all its inner components (the rows and columns) as grid items
-![[Pasted image 20250114222026.png]]
+![img](<images/Pasted image 20250114222026.png>)
 
 ### Grid Template
 - Defines the structure of the grid: how many rows and columns
 - You can define how much space, relative to each other, that each row and column should take.
 	- uses a special `fr`(fraction) unit
-	- The following css and html define how to divide up a table into the image above. We still haven't defined how each box will fit into the table though, just the dimensions. It just shows that each row and column is of equal size![[Pasted image 20250114222618.png]]
+	- The following css and html define how to divide up a table into the image above. We still haven't defined how each box will fit into the table though, just the dimensions. It just shows that each row and column is of equal size![img](<images/Pasted image 20250114222618.png>)
 
 
-![[Pasted image 20250114223245.png]]
+![img](<images/Pasted image 20250114223245.png>)
 - If you see the 1 / 4 in the grid-column section, thats just saying "span from position 1 to 4"
 - pay close attention to the numbers on the table
 #### Alternative:
-![[Pasted image 20250114223821.png]]
+![img](<images/Pasted image 20250114223821.png>)
 
 Useful websites:
 - flexbox.tech
