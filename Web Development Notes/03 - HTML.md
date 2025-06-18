@@ -8,7 +8,7 @@
 	- Path
 	- Query
 	- Fragment
-![[Pasted image 20250107232115.png]]
+![img](<Pasted image 20250107232115.png>)
 
 - protocol: https://
 - host: www.ncsu.edu
@@ -81,7 +81,7 @@ What's Hypertext?
 	- common: &nbsp;
 	- unicode: &#160;
 
-![[Pasted image 20250107235055.png]]
+![img](<Pasted image 20250107235055.png>)
 
 
 
@@ -89,7 +89,7 @@ What's Hypertext?
 
 ### Images
 
-`<img src="brick.jpg">
+`<img src="brick.jpg">`
 
 - `src`: required attribute
 - `alt`: not required, but universally recommended
@@ -146,11 +146,11 @@ td -> table data
 
 ### Summary
 
-![[Pasted image 20250108000809.png]]
+![img](<Pasted image 20250108000809.png>)
 
 
 ### Forms
-![[Pasted image 20250108000856.png]]
+![img](<Pasted image 20250108000856.png>)
 
 
 HTML Validation Service:
