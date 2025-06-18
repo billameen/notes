@@ -62,7 +62,7 @@
 	- \`Hello, world!\` `
 	- Support string interpolation
 		- You can have some variables substituted in your string
-		- ![[Pasted image 20250121205651.png]]
+		- ![img](<images/Pasted image 20250121205651.png>)
 
 
 # Objects, Collections, Iterations
@@ -71,8 +71,8 @@
 - Very flexible and powerful
 - keyed collections of data
 
-- Object Constructor syntax![[Pasted image 20250121205859.png]]
-- Object literal syntax![[Pasted image 20250121205919.png]]
+- Object Constructor syntax![img](<images/Pasted image 20250121205859.png>)
+- Object literal syntax![img](<images/Pasted image 20250121205919.png>)
 
 - Accessing properties:
 	- similar to java
@@ -87,12 +87,12 @@
 - Ordered List
 	- Constructor notation
 	- Square bracket notation
-	![[Pasted image 20250122131300.png]]
+	![img](<images/Pasted image 20250122131300.png>)
 	
 - Always an instance of `Array`
 - `arr.length`: largest index + 1
 	- It is NOT always the size of the array
-	- ![[Pasted image 20250121210346.png]]
+	- ![img](<images/Pasted image 20250121210346.png>)
 - Interesting methods:
 	- `push, pop`: add, remove from end
 	- `unshift, shift`: add, remove from start
@@ -107,11 +107,11 @@
 	- key-value pair, where the key can be an object
 	- Overcomes limitations of objects:
 		- objects only support string keys
-![[Pasted image 20250121210806.png]]
+![img](<images/Pasted image 20250121210806.png>)
 
 - Set
 	- Collection of unique values
-	![[Pasted image 20250121210755.png]]
+	![img](<images/Pasted image 20250121210755.png>)
 
 ## Loops
 - `while`
@@ -129,20 +129,20 @@
 
 - Function declaration:
 	- same as in java
-	![[Pasted image 20250121211241.png]]
+	![img](<images/Pasted image 20250121211241.png>)
 - Function expression:
 	- basically the same as a function, but you're assigning the value to a variable
-![[Pasted image 20250121211259.png]]
+![img](<images/Pasted image 20250121211259.png>)
 - Arrow function
 	- with explicit return 
-	![[Pasted image 20250121211349.png]]
-	- with implicit return![[Pasted image 20250121212155.png]]
+	![img](<images/Pasted image 20250121211349.png>)
+	- with implicit return![img](<images/Pasted image 20250121212155.png>)
 
 
 - All functions are values
 	- You can assign them to variables (same as java)
 - All functions are Objects
-	- You can assign properties to them ![[Pasted image 20250121211837.png]]
+	- You can assign properties to them ![img](<images/Pasted image 20250121211837.png>)
 - Since functions are values and objects:
 	- you can pass them as arguments to other functions
-	- allows for function composition (which is kind of like a function pointer)![[Pasted image 20250121212025.png]]
+	- allows for function composition (which is kind of like a function pointer)![img](<images/Pasted image 20250121212025.png>)
