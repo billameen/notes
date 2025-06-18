@@ -8,7 +8,7 @@
 	- Path
 	- Query
 	- Fragment
-![img](<Pasted image 20250107232115.png>)
+![img](<images/Pasted image 20250107232115.png>)
 
 - protocol: https://
 - host: www.ncsu.edu
@@ -81,7 +81,7 @@ What's Hypertext?
 	- common: &nbsp;
 	- unicode: &#160;
 
-![img](<Pasted image 20250107235055.png>)
+![img](<images/Pasted image 20250107235055.png>)
 
 
 
@@ -146,7 +146,7 @@ td -> table data
 
 ### Summary
 
-![img](<Pasted image 20250108000809.png>)
+![img](<images/Pasted image 20250108000809.png>)
 
 
 ### Forms
